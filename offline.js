@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1594655326,
+	"version": 1595189885,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,7 +20,6 @@
 		"images/water-sheet2.png",
 		"images/generic_enemy_bullet-sheet0.png",
 		"images/healthbar.png",
-		"images/healthback.png",
 		"images/lose-sheet0.png",
 		"images/retry-sheet0.png",
 		"images/retreat-sheet0.png",
@@ -45,6 +44,8 @@
 		"images/torch-sheet0.png",
 		"images/torch-sheet1.png",
 		"images/ui_hero-sheet0.png",
+		"images/boss_healthbar-sheet0.png",
+		"images/squares.png",
 		"media/button.ogg",
 		"media/tune.ogg",
 		"media/dead2.ogg",
@@ -63,6 +64,7 @@
 		"media/water.ogg",
 		"media/walk.ogg",
 		"media/move1.ogg",
+		"media/switch.ogg",
 		"media/menu.ogg",
 		"media/lvl1.ogg",
 		"media/lvl2.ogg",
